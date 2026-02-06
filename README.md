@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi! My name Adam Domański 😄
+========================================================================================================================================
 
-<!--
-**Domanskey/Domanskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 I am a Frontend Developer based in Warsaw, Poland.
+<br/>
+💻 Open to work!
+<br/>
 
-Here are some ideas to get you started:
+<!-- **Languages & Frameworks**<br> -->
+### Languages & Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass&perline=6)](https://skillicons.dev)
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vite,vscode,git,notion&perline=4)](https://skillicons.dev)
+
+### Contact me
+<div>
+  <a href="https://www.linkedin.com/in/domanskey/">
+    <img alt="LinkedIn icon" src="https://skillicons.dev/icons?i=linkedin"/>
+  </a> 
+  <a href="mailto:domadam04@gmail.com">
+    <img alt="Gmail icon" src="https://skillicons.dev/icons?i=gmail"/>
+  </a> 
+</div>
